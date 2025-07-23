@@ -123,26 +123,6 @@ torch.utils.data (Dataset, DataLoader, TensorDataset)
 
 warnings
 
-## 🧰 Installation
-First, clone the repository:
-
-## git clone https://github.com/your-username/speech-emotion-recognition.git
-cd speech-emotion-recognition
-
-The required Python libraries are typically pre-installed in Google Colab environments. If you are running this locally, you can install them via pip:
-
-pip install -r requirements.txt
-
-requirements.txt content:
-
-numpy
-pandas
-librosa
-seaborn
-matplotlib
-scikit-learn
-torch
-soundfile
 
 ## 🚀 How to Run
 Open in Google Colab: Upload the Speech_Emotion_Recognition_now.ipynb file to your Google Drive and open it with Google Colab.
